@@ -1,4 +1,4 @@
-from lib.track import Track
+from track import Track
 
 class MusicLibrary:
     # Public properties:
